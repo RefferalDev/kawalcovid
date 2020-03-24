@@ -8,7 +8,7 @@ Aplikasi ditulis dengan bahasa Dart dan bebas dimodifikasi untuk tujuan apapun.
 ## Coba Aplikasi
 Anda bisa mencoba aplikasi melalui link berikut
 - [Kawal Corona - Nizwar ID](http://kawalcovid.nizwar.id)
-- [Download APK disini](./res/apks/)
+- [Download APK disini](/res/apks/)
 
 ## Sumberdaya
 - [API Kawal Corona](https://kawalcorona.com/api)
